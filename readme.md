@@ -21,6 +21,23 @@ Bem-vindo ao **Game Detona Ralph**! Este repositório apresenta um jogo inspirad
 
 ### 🎮 Como Jogar
 
+👉 [Clique aqui](https://guilherme5412.github.io/Criando-um-Jogo-do-Detona-Ralph-com-JavaScript/) para acessar o jogo!
+
+Ou https://github.com/Guilherme5412
+
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/js-game-detona-ralph.git
+   git clone https://github.com/Guilherme5412/Criando-um-Jogo-do-Detona-Ralph-com-JavaScript
+2. Navegue até o diretório do projeto e abra o arquivo index.html no seu navegador favorito.
+3. Clique nos quadrados para acumular pontos e divirta-se!
+
+### 🤝 Contribuições
+Contribuições são bem-vindas!
+Se você tem ideias para melhorar o jogo ou encontrou algum problema, sinta-se à vontade para abrir um **pull request**.
+
+### 🎨 Créditos
+Este jogo foi criado como parte de um projeto educacional da Digital Innovation One, criado por 👉 [Guilherme da Rosa](https://github.com/Guilherme5412)
+
+                 
+
+
