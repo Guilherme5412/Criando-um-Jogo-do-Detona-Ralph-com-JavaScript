@@ -23,7 +23,7 @@ Bem-vindo ao **Game Detona Ralph**! Este repositório apresenta um jogo inspirad
 
 👉 [Clique aqui](https://guilherme5412.github.io/Criando-um-Jogo-do-Detona-Ralph-com-JavaScript/) para acessar o jogo!
 
-Ou https://github.com/Guilherme5412
+Ou 
 
 1. Clone este repositório:
    ```bash
